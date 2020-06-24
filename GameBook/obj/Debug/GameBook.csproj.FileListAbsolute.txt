@@ -1,0 +1,17 @@
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\bin\Debug\GameBook.mdf
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\bin\Debug\GameBook_log.ldf
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\bin\Debug\GameBook.exe.config
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\bin\Debug\GameBook.exe
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\bin\Debug\GameBook.pdb
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.csprojAssemblyReference.cache
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.include.components.gridMember.resources
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.include.components.listMember.resources
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.Login.resources
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.MainBoard.resources
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.MessageOK.resources
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.MessageYesNo.resources
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.Properties.Resources.resources
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.csproj.GenerateResource.cache
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.csproj.CoreCompileInputs.cache
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.exe
+D:\SoureCode\C# Winform\Job-20200622T095042Z-001\Job\GameBook\obj\Debug\GameBook.pdb
